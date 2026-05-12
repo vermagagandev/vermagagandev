@@ -1,4 +1,4 @@
-# 💫 About Me:
+#Hi There 👋 I am Gagandeep Verma 👋:
 Computer Science Engineering (CSE) student passionate about software development and problem-solving. Skilled in C, C++, Java, and DBMS with a strong interest in programming, technology, and learning new development tools. Enthusiastic about building efficient solutions and continuously improving technical skills.
 
 
