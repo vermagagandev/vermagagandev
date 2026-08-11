@@ -1,105 +1,159 @@
+<div align="center">
+
 # 👋 Hi, I'm Gagandeep Verma
 
-### 💻 Full Stack Developer | Computer Science Engineering Student
+### ⚡ Full Stack Developer | Computer Science Engineering Student
 
-# 💫 About Me:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 
-I'm **Gagandeep Verma**, a Computer Science Engineering (CSE) student and **Full Stack Developer** passionate about software development, web development, and problem-solving.
-
-I enjoy building modern and responsive web applications while continuously improving my technical skills. I have experience working with **C, C++, Java, JavaScript, React.js, Node.js, Express.js, MongoDB, and DBMS**.
-
-* 💻 Full Stack Developer
-* 🌱 Currently improving my **MERN Stack Development** skills
-* 🔭 Building real-world **Full Stack Web Applications**
-* 👯 Interested in contributing to **Open Source Projects**
-* 💡 Interested in Web Development, Software Engineering & AI
-* 🚀 Always learning and exploring new technologies
+</div>
 
 ---
 
-## 🌐 Socials:
+## 💫 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vermagagandev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/gagandeep-verma-94a183367)
+```javascript
+const gagan = {
+    name: "Gagandeep Verma",
+    role: "Full Stack Developer",
+    education: "Computer Science Engineering",
+    interests: [
+        "Full Stack Development",
+        "Open Source",
+        "Software Engineering",
+        "AI-powered Applications"
+    ],
+    currentlyLearning: "MERN Stack",
+    goal: "Build. Learn. Contribute."
+};
+```
+
+I'm **Gagandeep Verma**, a Computer Science Engineering (CSE) student and **Full Stack Developer** passionate about building modern web applications and solving real-world problems.
+
+* 🔭 Building **Full Stack Web Applications**
+* 🌱 Improving my **MERN Stack Development** skills
+* 👯 Interested in **Open Source Contributions**
+* ⚡ Exploring **AI-powered Web Applications**
+* 💡 Passionate about **Software Engineering & Problem Solving**
+* 🚀 Always learning, building and experimenting
 
 ---
 
-# 💻 Tech Stack:
+<div align="center">
 
-### 🌐 Frontend
+## 🌐 Connect With Me
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+<a href="https://github.com/vermagagandev">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+</a>
 
-### ⚙️ Backend
+<a href="https://linkedin.com/in/gagandeep-verma-94a183367">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
+</a>
 
-![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge\&logo=express\&logoColor=white)
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ Tech Arsenal
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+
+<br/><br/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+<br/><br/>
 
 ### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-%2300748F.svg?style=for-the-badge\&logo=database\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+<br/><br/>
 
 ### 👨‍💻 Programming Languages
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" />
 
-### 🛠️ Tools
+<br/><br/>
 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
+### 🛠️ Development Tools
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
-# 📊 GitHub Stats:
+<br/><br/>
 
-![](https://github-readme-stats.shion.dev/api?username=vermagagandev\&theme=neon\&hide_border=true\&include_all_commits=false\&count_private=false)
+<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00F7FF" />
 
-<br/>
-
-![](https://streak-stats.demolab.com/?user=vermagagandev\&theme=neon\&hide_border=true)
-
-<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vermagagandev\&theme=neon\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=vermagagandev\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+# 📊 GitHub Analytics
 
----
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=vermagagandev&theme=neon&hide_border=true&include_all_commits=false&count_private=false" />
 
-## 🤝 Open Source
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vermagagandev&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
-I'm interested in contributing to **open-source projects** and collaborating with developers to build useful software.
+<br/><br/>
 
-* 🐛 Bug Fixes
-* ✨ New Features
-* 🎨 Frontend Improvements
-* 📝 Documentation
-* 💻 Full Stack Development
+<img width="70%" src="https://streak-stats.demolab.com/?user=vermagagandev&theme=neon&hide_border=true" />
+
+</div>
 
 ---
 
-## 👀 Profile Views
+<div align="center">
 
-[![](https://komarev.com/ghpvc/?username=vermagagandev\&icon=2\&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=vermagagandev&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+</div>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 🌍 Open Source
 
-I'm always open to **learning, collaboration, open-source contributions, and development opportunities**.
+I'm passionate about contributing to **open-source projects** and collaborating with developers around the world.
+
+```text
+🐛  Bug Fixes
+✨  New Features
+🎨  Frontend Improvements
+⚙️  Backend Development
+📝  Documentation
+💻  Full Stack Development
+```
+
+I'm always interested in discovering interesting projects where I can **learn, contribute, and grow as a developer**.
+
+---
+
+<div align="center">
+
+## 👀 Profile Visitors
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://komarev.com/ghpvc/?username=vermagagandev&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
+</a>
+
+<br/><br/>
+
+### ⚡ Code • Create • Contribute • Repeat
+
+**Thanks for visiting my profile! 👨‍💻**
+
+If you find my projects useful, consider giving them a ⭐
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
