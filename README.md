@@ -12,9 +12,26 @@
 
 ## 💫 About Me
 
-I'm **Gagandeep Verma**, a Computer Science Engineering (CSE) student and **Full Stack Developer** passionate about software development, web technologies, and problem-solving.
+```javascript
+const gagan = {
+  name: "Gagandeep Verma",
+  role: "Full Stack Developer",
+  education: "Computer Science Engineering",
 
-I enjoy building modern web applications and continuously improving my technical skills. I'm also interested in **open-source development**, collaborating with developers, and exploring new technologies.
+  interests: [
+    "Full Stack Development",
+    "Open Source",
+    "Software Engineering",
+    "AI-powered Applications"
+  ],
+
+  currentlyLearning: "MERN Stack",
+
+  goal: "Build. Learn. Contribute."
+};
+```
+
+I'm **Gagandeep Verma**, a Computer Science Engineering (CSE) student and **Full Stack Developer** passionate about software development, web technologies, and problem-solving.
 
 * 🔭 Building **Full Stack Web Applications**
 * 🌱 Improving my **MERN Stack Development** skills
@@ -31,7 +48,7 @@ I enjoy building modern web applications and continuously improving my technical
 <table>
 <tr>
 
-<td align="center" width="80">
+<td align="center" width="85">
 <a href="https://github.com/vermagagandev">
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/>
 <br>
@@ -39,7 +56,7 @@ I enjoy building modern web applications and continuously improving my technical
 </a>
 </td>
 
-<td align="center" width="80">
+<td align="center" width="85">
 <a href="https://linkedin.com/in/gagandeep-verma-94a183367">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50"/>
 <br>
@@ -50,7 +67,11 @@ I enjoy building modern web applications and continuously improving my technical
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 # ⚡ Tech Stack
 
@@ -59,31 +80,31 @@ I enjoy building modern web applications and continuously improving my technical
 <table>
 <tr>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/>
 <br>
 <b>HTML</b>
 </td>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"/>
 <br>
 <b>CSS</b>
 </td>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"/>
 <br>
 <b>JavaScript</b>
 </td>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/>
 <br>
 <b>React</b>
 </td>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50"/>
 <br>
 <b>Tailwind</b>
@@ -97,16 +118,16 @@ I enjoy building modern web applications and continuously improving my technical
 <table>
 <tr>
 
-<td align="center" width="80">
+<td align="center" width="85">
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50"/>
 <br>
 <b>Node.js</b>
 </td>
 
-<td align="center" width="80">
+<td align="center" width="85">
 <img src="https://skillicons.dev/icons?i=express&theme=dark" width="50"/>
 <br>
-<b>Express</b>
+<b>Express.js</b>
 </td>
 
 </tr>
@@ -117,13 +138,13 @@ I enjoy building modern web applications and continuously improving my technical
 <table>
 <tr>
 
-<td align="center" width="80">
+<td align="center" width="85">
 <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50"/>
 <br>
 <b>MongoDB</b>
 </td>
 
-<td align="center" width="80">
+<td align="center" width="85">
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/>
 <br>
 <b>MySQL</b>
@@ -137,19 +158,19 @@ I enjoy building modern web applications and continuously improving my technical
 <table>
 <tr>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=c&theme=dark" width="50"/>
 <br>
 <b>C</b>
 </td>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"/>
 <br>
 <b>C++</b>
 </td>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"/>
 <br>
 <b>Java</b>
@@ -163,25 +184,25 @@ I enjoy building modern web applications and continuously improving my technical
 <table>
 <tr>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/>
 <br>
 <b>Git</b>
 </td>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/>
 <br>
 <b>GitHub</b>
 </td>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50"/>
 <br>
 <b>VS Code</b>
 </td>
 
-<td align="center" width="75">
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50"/>
 <br>
 <b>Postman</b>
@@ -190,38 +211,40 @@ I enjoy building modern web applications and continuously improving my technical
 </tr>
 </table>
 
+---
+
 ### 🎨 Creative Tools
 
 <table>
 <tr>
 
-<td align="center" width="90">
+<td align="center" width="105">
 <a href="https://www.canva.com/">
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="50" height="50"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="42"/>
 <br>
 <b>Canva</b>
 </a>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="115">
 <a href="https://www.adobe.com/products/premiere.html">
-<img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="50" height="50"/>
+<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" height="42"/>
 <br>
 <b>Premiere Pro</b>
 </a>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="115">
 <a href="https://www.adobe.com/products/aftereffects.html">
-<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="50" height="50"/>
+<img src="https://img.shields.io/badge/Adobe_After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" height="42"/>
 <br>
 <b>After Effects</b>
 </a>
 </td>
 
-<td align="center" width="90">
+<td align="center" width="105">
 <a href="https://www.adobe.com/products/photoshop.html">
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="50" height="50"/>
+<img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" height="42"/>
 <br>
 <b>Photoshop</b>
 </a>
@@ -239,6 +262,7 @@ I enjoy building modern web applications and continuously improving my technical
 # 📊 GitHub Analytics
 
 <img width="48%" src="https://github-readme-stats.shion.dev/api?username=vermagagandev&theme=neon&hide_border=true&include_all_commits=false&count_private=false" />
+
 <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vermagagandev&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
 <br>
@@ -261,6 +285,8 @@ I enjoy building modern web applications and continuously improving my technical
 
 ## 🌍 Open Source
 
+I'm interested in contributing to **open-source projects** and collaborating with developers around the world.
+
 * 🐛 Bug Fixes
 * ✨ New Features
 * 🎨 Frontend Improvements
@@ -268,7 +294,7 @@ I enjoy building modern web applications and continuously improving my technical
 * 📝 Documentation
 * 💻 Full Stack Development
 
-I'm interested in contributing to **open-source projects** and collaborating with developers around the world.
+I'm always interested in discovering projects where I can **learn, contribute, and grow as a developer**.
 
 ---
 
@@ -280,9 +306,13 @@ I'm interested in contributing to **open-source projects** and collaborating wit
 <img src="https://komarev.com/ghpvc/?username=vermagagandev&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
 </a>
 
+<br>
+
 ### ⚡ Code • Create • Contribute • Repeat
 
 **Thanks for visiting my profile! 👨‍💻**
+
+If you find my projects useful, consider giving them a ⭐
 
 </div>
 
