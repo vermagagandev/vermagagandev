@@ -222,7 +222,6 @@ I'm **Gagandeep Verma**, a Computer Science Engineering (CSE) student and **Full
 <a href="https://www.canva.com/">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="42"/>
 <br>
-<b>Canva</b>
 </a>
 </td>
 
@@ -230,7 +229,6 @@ I'm **Gagandeep Verma**, a Computer Science Engineering (CSE) student and **Full
 <a href="https://www.adobe.com/products/premiere.html">
 <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" height="42"/>
 <br>
-<b>Premiere Pro</b>
 </a>
 </td>
 
@@ -238,7 +236,6 @@ I'm **Gagandeep Verma**, a Computer Science Engineering (CSE) student and **Full
 <a href="https://www.adobe.com/products/aftereffects.html">
 <img src="https://img.shields.io/badge/Adobe_After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" height="42"/>
 <br>
-<b>After Effects</b>
 </a>
 </td>
 
@@ -246,7 +243,6 @@ I'm **Gagandeep Verma**, a Computer Science Engineering (CSE) student and **Full
 <a href="https://www.adobe.com/products/photoshop.html">
 <img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" height="42"/>
 <br>
-<b>Photoshop</b>
 </a>
 </td>
 
