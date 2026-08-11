@@ -12,30 +12,15 @@
 
 ## 💫 About Me
 
-```javascript
-const gagan = {
-  name: "Gagandeep Verma",
-  role: "Full Stack Developer",
-  education: "Computer Science Engineering",
-  interests: [
-    "Full Stack Development",
-    "Open Source",
-    "Software Engineering",
-    "AI-powered Applications"
-  ],
-  currentlyLearning: "MERN Stack",
-  goal: "Build. Learn. Contribute."
-};
-```
+I'm **Gagandeep Verma**, a Computer Science Engineering (CSE) student and **Full Stack Developer** passionate about software development, web technologies, and problem-solving.
 
-I'm **Gagandeep Verma**, a Computer Science Engineering student and **Full Stack Developer** passionate about building modern web applications and solving real-world problems.
+I enjoy building modern web applications and continuously improving my technical skills. I'm also interested in **open-source development**, collaborating with developers, and exploring new technologies.
 
 * 🔭 Building **Full Stack Web Applications**
 * 🌱 Improving my **MERN Stack Development** skills
 * 👯 Interested in **Open Source Contributions**
-* ⚡ Exploring **AI-powered Web Applications**
-* 💡 Passionate about **Software Engineering & Problem Solving**
-* 🚀 Always learning, building and experimenting
+* 💡 Interested in **Web Development, Software Engineering & AI**
+* 🚀 Always learning, building, and experimenting
 
 ---
 
@@ -43,12 +28,25 @@ I'm **Gagandeep Verma**, a Computer Science Engineering student and **Full Stack
 
 ## 🌐 Connect With Me
 
+<table>
+<tr>
+
+<td align="center" width="90">
 <a href="https://github.com/vermagagandev">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/>
+<sub><b>GitHub</b></sub>
 </a>
+</td>
+
+<td align="center" width="90">
 <a href="https://linkedin.com/in/gagandeep-verma-94a183367">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" />
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/><br/>
+<sub><b>LinkedIn</b></sub>
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -60,81 +58,159 @@ I'm **Gagandeep Verma**, a Computer Science Engineering student and **Full Stack
 
 ### 🌐 Frontend
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="48" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" />
-</a>
-<a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" />
-</a>
-<a href="https://tailwindcss.com/">
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="48" />
-</a>
+<table>
+<tr>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/>
+<sub><b>HTML5</b></sub>
+</td>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/>
+<sub><b>CSS3</b></sub>
+</td>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/>
+<sub><b>JavaScript</b></sub>
+</td>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/>
+<sub><b>React</b></sub>
+</td>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br/>
+<sub><b>Tailwind</b></sub>
+</td>
+
+</tr>
+</table>
 
 ### ⚙️ Backend
 
-<a href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" />
-</a>
-<a href="https://expressjs.com/">
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="48" />
-</a>
+<table>
+<tr>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/>
+<sub><b>Node.js</b></sub>
+</td>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/><br/>
+<sub><b>Express.js</b></sub>
+</td>
+
+</tr>
+</table>
 
 ### 🗄️ Database
 
-<a href="https://www.mongodb.com/">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" />
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" />
-</a>
+<table>
+<tr>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/>
+<sub><b>MongoDB</b></sub>
+</td>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/>
+<sub><b>MySQL</b></sub>
+</td>
+
+</tr>
+</table>
 
 ### 👨‍💻 Programming Languages
 
-<a href="https://en.cppreference.com/w/c">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" />
-</a>
-<a href="https://isocpp.org/">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="48" />
-</a>
-<a href="https://www.java.com/">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" />
-</a>
+<table>
+<tr>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="48"/><br/>
+<sub><b>C</b></sub>
+</td>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br/>
+<sub><b>C++</b></sub>
+</td>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/>
+<sub><b>Java</b></sub>
+</td>
+
+</tr>
+</table>
 
 ### 🛠️ Development Tools
 
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" />
-</a>
-<a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" />
-</a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="48" />
-</a>
-<a href="https://www.postman.com/">
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="48" />
-</a>
+<table>
+<tr>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>
+<sub><b>Git</b></sub>
+</td>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/>
+<sub><b>VS Code</b></sub>
+</td>
+
+<td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br/>
+<sub><b>Postman</b></sub>
+</td>
+
+</tr>
+</table>
 
 ### 🎨 Design & Creative Tools
 
+<table>
+<tr>
+
+<td align="center" width="105">
 <a href="https://www.canva.com/">
-  <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=00F7FF" height="38" />
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48"/><br/>
+<sub><b>Canva</b></sub>
 </a>
+</td>
+
+<td align="center" width="105">
 <a href="https://www.adobe.com/products/premiere.html">
-  <img src="https://img.shields.io/badge/Premiere_Pro-111827?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" height="38" />
+<img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="48" height="48"/><br/>
+<sub><b>Premiere Pro</b></sub>
 </a>
+</td>
+
+<td align="center" width="105">
 <a href="https://www.adobe.com/products/aftereffects.html">
-  <img src="https://img.shields.io/badge/After_Effects-111827?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" height="38" />
+<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="48" height="48"/><br/>
+<sub><b>After Effects</b></sub>
 </a>
+</td>
+
+<td align="center" width="105">
 <a href="https://www.adobe.com/products/photoshop.html">
-  <img src="https://img.shields.io/badge/Photoshop-111827?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" height="38" />
+<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" height="48"/><br/>
+<sub><b>Photoshop</b></sub>
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -144,17 +220,13 @@ I'm **Gagandeep Verma**, a Computer Science Engineering student and **Full Stack
 
 # 📊 GitHub Analytics
 
-<a href="https://github.com/vermagagandev">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=vermagagandev&theme=neon&hide_border=true&include_all_commits=false&count_private=false" />
-</a>
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=vermagagandev&theme=neon&hide_border=true&include_all_commits=false&count_private=false" />
 
-<a href="https://github.com/vermagagandev">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vermagagandev&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</a>
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vermagagandev&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
-<a href="https://github.com/vermagagandev">
-  <img width="68%" src="https://streak-stats.demolab.com/?user=vermagagandev&theme=neon&hide_border=true" />
-</a>
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com/?user=vermagagandev&theme=neon&hide_border=true" />
 
 </div>
 
@@ -164,9 +236,7 @@ I'm **Gagandeep Verma**, a Computer Science Engineering student and **Full Stack
 
 ## 🏆 GitHub Achievements
 
-<a href="https://github.com/vermagagandev">
-  <img src="https://github-profile-trophy.vercel.app/?username=vermagagandev&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=vermagagandev&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=6" />
 
 </div>
 
@@ -176,16 +246,14 @@ I'm **Gagandeep Verma**, a Computer Science Engineering student and **Full Stack
 
 I'm interested in contributing to **open-source projects** and collaborating with developers around the world.
 
-```text
-🐛 Bug Fixes
-✨ New Features
-🎨 Frontend Improvements
-⚙️ Backend Development
-📝 Documentation
-💻 Full Stack Development
-```
+* 🐛 Bug Fixes
+* ✨ New Features
+* 🎨 Frontend Improvements
+* ⚙️ Backend Development
+* 📝 Documentation
+* 💻 Full Stack Development
 
-I'm always interested in discovering projects where I can **learn, contribute and grow as a developer**.
+I'm always interested in discovering projects where I can **learn, contribute, and grow as a developer**.
 
 ---
 
@@ -194,8 +262,10 @@ I'm always interested in discovering projects where I can **learn, contribute an
 ## 👀 Profile Visitors
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=vermagagandev&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=vermagagandev&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 </a>
+
+<br/>
 
 ### ⚡ Code • Create • Contribute • Repeat
 
